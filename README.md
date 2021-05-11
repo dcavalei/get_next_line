@@ -4,5 +4,6 @@ In this project you code a funtion that returns a line ending with a newline, re
 ### Resources
 *	[File descriptors](https://en.wikipedia.org/wiki/File_descriptor)
 *	[Man read(2)](https://man7.org/linux/man-pages/man2/read.2.html)
+*	[Static variables in C](https://www.geeksforgeeks.org/static-variables-in-c/)
 #### Contact me
 	dcavalei@student.42lisboa.com
